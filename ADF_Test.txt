@@ -1,0 +1,192 @@
+    Augmented Dickey-Fuller Test on "A"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -10.3234
+ No. of Lags Chosen    = 59
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "B"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -16.4547
+ No. of Lags Chosen    = 60
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "C"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -39.662
+ No. of Lags Chosen    = 39
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "D"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -17.0286
+ No. of Lags Chosen    = 60
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "E"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -79.5418
+ No. of Lags Chosen    = 9
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "F"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -16.9436
+ No. of Lags Chosen    = 60
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "G"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -81.645
+ No. of Lags Chosen    = 8
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "H"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -88.6198
+ No. of Lags Chosen    = 7
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "I"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -19.9698
+ No. of Lags Chosen    = 59
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "J"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -88.1403
+ No. of Lags Chosen    = 7
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "K"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -18.3336
+ No. of Lags Chosen    = 60
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "L"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -14.9261
+ No. of Lags Chosen    = 60
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "M"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -32.4084
+ No. of Lags Chosen    = 60
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "N"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -39.454
+ No. of Lags Chosen    = 40
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "Y1"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -80.7838
+ No. of Lags Chosen    = 8
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
+    Augmented Dickey-Fuller Test on "Y2"
+   -----------------------------------------------
+ Null Hypothesis: Data has unit root (non-stationary)
+ Significance Level    = 0.05
+ Test Statistic        = -20.1484
+ No. of Lags Chosen    = 59
+ Critical Value 1%     = -3.43
+ Critical Value 5%     = -2.862
+ Critical Value 10%    = -2.567
+ => P-Value = 0.0. Reject the null hypothesis.
+ => Series is likely stationary.
+
