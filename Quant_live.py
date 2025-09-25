@@ -24,9 +24,9 @@ class Strategy:
 
     def reset_state(self) -> None:
         """Reset to starting state."""
-        self.capital = 1000.0
+        self.capital = 100000.0
         self.position = 0
-        self.last_prob = 0.5
+        self.last_prob = 0.65
         print("RESET state")
 
     def __init__(self) -> None:
